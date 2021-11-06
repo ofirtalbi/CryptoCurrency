@@ -1,4 +1,3 @@
-// משתנים לשמירת הAPI
 var coinsListArray = [];
 var moreInfoArray = [];
 var coinsSymbols = [];
